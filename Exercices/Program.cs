@@ -1,35 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-
-
-
-
-
-
-//Console.WriteLine("\nExcercie 4, Speed Limit");
-//Console.WriteLine("Enter the speed limit: ");
-//int speedLimit = Convert.ToInt32(Console.ReadLine());
-//Console.WriteLine("Enter the speed: ");
-//int speed = Convert.ToInt32(Console.ReadLine());
-
-//if (speedLimit > speed) 
-//{
-//    Console.WriteLine("You're ok");
-//} 
-//else
-//{
-//    int demeritsPoint = (speed - speedLimit) / 5;
-//    if (demeritsPoint >= 12)
-//    {
-//        Console.WriteLine("License Suspended");
-//    }
-//    else
-//    {
-//        Console.WriteLine("You have: " + demeritsPoint, "Demerit Points" );
-//    }
-//}
-
-
 //string pato = "Anita lava la tina";
 //string reverse = String.Empty;
 //for (int i = pato.Length - 1 ; i >= 0 ; i--)
